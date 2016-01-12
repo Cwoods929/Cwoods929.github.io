@@ -1,0 +1,33 @@
+a {
+
+}
+
+
+ text-decoration: overline;
+   color:inherit;
+   font-weight:lighter;
+   image-resolution: snap;
+   outline-color: inherit;
+   clear: right;
+   background-color: blue
+}
+#navme {
+  list-style: disc;
+  vertical-align: middle;
+  content: inherit;
+  direction: rtl;
+}
+body {
+font-family:monospace;
+background-color: pink;
+vertical-align: middle;
+background-color: gray;
+color: red;
+font-size: 30px;
+filter: contrast(brightness(drop-shadow();
+direction: rtl;
+
+
+}
+h1 {font-size: x-large;
+  font-family: monospace;
