@@ -1,0 +1,38 @@
+@import url(https://fonts.googleapis.com/css?family=Quicksand);
+h1 {
+font-family: "Quicksand",normal;
+font-weight: 900;
+font-size: 70px;
+}
+<h1 { text-align: center;>
+  color:#FF3366;
+
+}
+
+body {
+  background-image: url("Lifestyle Images/purple.jpg");
+  text-align: center;
+  font-family: "Quicksand",normal;
+  font-weight: lighter;
+  font-size: 20px;
+  color: #FF3366;
+    }
+  #blog {
+  list-style-type: none;
+  font-family:"Quicksand",normal;
+  font-size: 20px;}
+
+#body{
+  text-align: center;
+  font-family: "Quicksand",normal;
+  font-weight:bold;
+  font-size: 20px;
+  color: #FF3366;
+}
+#navmenu {
+  text-align: center;
+  font-family: "Quicksand",normal;
+  font-weight: bold;
+  font-size: 40px;
+  color: #FF3366;
+}
